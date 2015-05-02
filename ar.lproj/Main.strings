@@ -1,0 +1,81 @@
+
+ Class = "IBUIButton"; normalTitle = "image"; ObjectID = "0ci-q6-BKb";
+"0ci-q6-BKb.normalTitle" = "صورة";
+
+ Class = "IBUILabel"; text = "Name"; ObjectID = "2Uu-do-R7R";
+"2Uu-do-R7R.text" = "اسم";
+
+ Class = "IBUIButton"; normalTitle = "Load "; ObjectID = "9EX-MI-3u6";
+"9EX-MI-3u6.normalTitle" = "حمل ";
+
+ Class = "IBUIButton"; normalTitle = "Go to Screen two"; ObjectID = "Dl6-6L-rGe";
+"Dl6-6L-rGe.normalTitle" = "انتقل إلى شاشة اثنين";
+
+ Class = "IBUIButton"; normalTitle = "next"; ObjectID = "Egf-Zd-YxU";
+"Egf-Zd-YxU.normalTitle" = "التالى";
+
+ Class = "IBUIButton"; normalTitle = "ten"; ObjectID = "FPm-9a-3JI";
+"FPm-9a-3JI.normalTitle" = "عشرة";
+
+ Class = "IBUIButton"; normalTitle = "SQLITE"; ObjectID = "HiJ-m4-vmG";
+"HiJ-m4-vmG.normalTitle" = "سكليتي";
+
+ Class = "IBUILabel"; text = "Address"; ObjectID = "I0d-Sp-c0Q";
+"I0d-Sp-c0Q.text" = "عنوان";
+
+ Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "K6o-Ic-4zE";
+"K6o-Ic-4zE.normalTitle" = "القيام به";
+
+ Class = "IBUILabel"; text = "Phone"; ObjectID = "KFV-m2-dRr";
+"KFV-m2-dRr.text" = "هاتف";
+
+ Class = "IBUILabel"; text = "Label"; ObjectID = "MH6-b2-Ciy";
+"MH6-b2-Ciy.text" = "ملصق";
+
+ Class = "IBUIButton"; normalTitle = "sepia"; ObjectID = "P38-2K-DRn";
+"P38-2K-DRn.normalTitle" = "بني داكن";
+
+ Class = "IBUIButton"; normalTitle = "Show Web View"; ObjectID = "QnU-fF-rWS";
+"QnU-fF-rWS.normalTitle" = "مشاهدة عرض ويب";
+
+ Class = "IBUIButton"; normalTitle = "Save"; ObjectID = "RZ6-2k-mgb";
+"RZ6-2k-mgb.normalTitle" = "حفظ";
+
+ Class = "IBUIButton"; normalTitle = "Green"; ObjectID = "RoH-EY-DIx";
+"RoH-EY-DIx.normalTitle" = "أخضر";
+
+ Class = "IBUIButton"; normalTitle = "Dismiss View"; ObjectID = "S6U-Ic-pr3";
+"S6U-Ic-pr3.normalTitle" = "اقالة مشاهدة";
+
+ Class = "IBUIButton"; normalTitle = "Red"; ObjectID = "UAP-cW-3oP";
+"UAP-cW-3oP.normalTitle" = "أحمر";
+
+ Class = "IBUIButton"; normalTitle = "Focus"; ObjectID = "V1E-ZJ-VCe";
+"V1E-ZJ-VCe.normalTitle" = "تركيز";
+
+Class = "IBUIButton"; normalTitle = "seventh"; ObjectID = "bf9-RW-yfQ";
+"bf9-RW-yfQ.normalTitle" = "سابع";
+
+ Class = "IBUIButton"; normalTitle = "go to Graphics"; ObjectID = "cXS-zq-ZCM";
+"cXS-zq-ZCM.normalTitle" = "انتقل إلى الرسومات";
+
+Class = "IBUIButton"; normalTitle = "Find"; ObjectID = "cYa-M2-iVf";
+"cYa-M2-iVf.normalTitle" = "اكتشاف";
+
+ Class = "IBUIButton"; normalTitle = "blur"; ObjectID = "dVS-4z-RRz";
+"dVS-4z-RRz.normalTitle" = "شىء ضبابي";
+
+ Class = "IBUIButton"; normalTitle = "CoreText"; ObjectID = "fhZ-fT-kq4";
+"fhZ-fT-kq4.normalTitle" = "نص جوهر";
+
+ Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "fsi-fb-8yu";
+"fsi-fb-8yu.normalTitle" = "حذف";
+
+ Class = "IBUIButton"; normalTitle = "sixth"; ObjectID = "jez-H0-1gt";
+"jez-H0-1gt.normalTitle" = "سادس";
+
+ Class = "IBUIButton"; normalTitle = "eigth"; ObjectID = "v8a-wu-IfG";
+"v8a-wu-IfG.normalTitle" = "الرقمية الثامنة";
+
+ Class = "IBUIButton"; normalTitle = "ninth"; ObjectID = "ybN-Ae-ajU";
+"ybN-Ae-ajU.normalTitle" = "تاسع";
